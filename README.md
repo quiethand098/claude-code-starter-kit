@@ -22,3 +22,7 @@ MIT
 
 ## Full pack
 The full Claude Code Starter Pack (4 CLAUDE.md templates plus 5 project skills and install notes) is $9: https://quiethand098.gumroad.com/l/tatgdi
+
+## Tools
+- Token cost calculator for your CLAUDE.md (runs in the browser): https://quiethand098.github.io/claude-code-starter-kit/
+- `ccaudit/ccaudit.py`: audit a whole project (CLAUDE.md, skills, MCP servers).
