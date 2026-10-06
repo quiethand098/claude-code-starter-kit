@@ -18,3 +18,7 @@ Ready-to-use `CLAUDE.md` templates and 5 project skills for Claude Code. Copy, e
 
 ## License
 MIT
+
+
+## Full pack
+The full Claude Code Starter Pack (4 CLAUDE.md templates plus 5 project skills and install notes) is $9: https://quiethand098.gumroad.com/l/tatgdi
